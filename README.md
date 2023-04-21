@@ -1,16 +1,8 @@
 # calculadora
 
-A new Flutter project.
+Este es un proyecto de una calculadora simple realizada en flutter, lenguaje Dart.
 
-## Getting Started
+## screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/130617055/233542623-9136f910-a7e9-410a-a07d-28a4f2a0a8f6.png)
+![image](https://user-images.githubusercontent.com/130617055/233542701-61267ea8-a36e-40e5-80f1-a2d33846ca8b.png)
